@@ -1,7 +1,7 @@
 function Login({onLogin}){
     return (
         <>
-            <h2>Acceso</h2>
+            <h2>Challenge your friends</h2>
 
             <button onClick={() => onLogin("Moderator")}>
                 Log in as a moderator
